@@ -1,6 +1,6 @@
 {
   "name": "smartlearn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "E-learning platform",
   "main": "server.js",
   "scripts": {
@@ -9,8 +9,6 @@
   "author": "Nandini",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
-    "mongoose": "^7.0.0",
-    "body-parser": "^1.20.2"
+    "express": "^4.18.2"
   }
 }
