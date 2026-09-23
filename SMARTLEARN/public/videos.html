@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Course Videos & PDFs</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<h2 id="pageTitle">Course Videos</h2>
+<div id="videos"></div>
+
+<script>
+const urlParams = new URLSearchParams(window.location.search);
+const topic = urlParams.get('topic');
+
+if(topic) {
+  document.getElementById('pageTitle').innerText = topic + " - Lectures & PDFs";
+}
+
+fetch(topic ? "/courses/" + encodeURIComponent(topic) : "/courses")
+.then(res => res.json())
+.then(data => {
+
+let html="";
+
+data.forEach(v=>{
+html += `
+<article class="course-material">
+<h3>${v.courseName}</h3>
+<p>${v.videoTitle}</p>
+<iframe width="560" height="315"
+src="${v.videoLink}"
+frameborder="0"
+allowfullscreen>
+</iframe>
+<div class="material-actions">
+`;
+if (v.pdfLink) {
+  html += `<a href="${v.pdfLink}" target="_blank"><button>Open lecture notes PDF</button></a>`;
+}
+html += `</div>`;
+if (v.lectureNotes) {
+  html += `<p class="lecture-notes"><strong>Lecture notes:</strong> ${v.lectureNotes}</p>`;
+}
+html += `</article>`;
+});
+
+document.getElementById("videos").innerHTML = html;
+
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Topics</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<h2>Select Topic</h2>
+<p>Choose a topic to view materials and take quiz</p>
+<div id="topics"></div>
+<script>
+fetch("/topics")
+.then(res => res.json())
+.then(data => {
+let html="";
+data.forEach(t=>{
+html += `<a href="/topic.html?name=${encodeURIComponent(t)}"><button>${t}</button></a><br><br>`;
+});
+document.getElementById("topics").innerHTML = html;
+});
+</script>
+</body>
+</html>

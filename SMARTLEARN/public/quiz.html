@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quiz</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<h2 id="quizTitle">Quiz</h2>
+
+<form id="quizForm">
+<input type="hidden" name="topic" id="topicInput">
+<div id="quiz"></div>
+<button type="submit">Submit Quiz</button>
+</form>
+
+<script>
+const urlParams = new URLSearchParams(window.location.search);
+const topic = urlParams.get('topic');
+if (topic) {
+  document.getElementById('quizTitle').innerText = topic + " - Quiz";
+  document.getElementById('topicInput').value = topic;
+}
+
+fetch(topic ? "/questions/" + encodeURIComponent(topic) : "/questions")
+.then(res => res.json())
+.then(data => {
+
+if (!data.length) {
+  document.getElementById("quiz").innerHTML = "<p>No quiz questions are available for this subject yet.</p>";
+  return;
+}
+
+data.sort(() => Math.random() - 0.5);
+data = data.slice(0, Math.min(10, data.length));
+
+let html = "";
+
+data.forEach((q,i)=>{
+
+html += `
+<p>${i+1}. ${q.question}</p>
+
+<input type="radio" name="q_${q._id}" value="${q.option1}" required> ${q.option1}<br>
+<input type="radio" name="q_${q._id}" value="${q.option2}"> ${q.option2}<br>
+<input type="radio" name="q_${q._id}" value="${q.option3}"> ${q.option3}<br>
+<input type="radio" name="q_${q._id}" value="${q.option4}"> ${q.option4}<br><br>
+`;
+
+});
+
+document.getElementById("quiz").innerHTML = html;
+
+});
+
+document.getElementById("quizForm").addEventListener("submit", async function(e){
+
+e.preventDefault();
+
+const formData = new URLSearchParams(new FormData(this));
+
+const response = await fetch("/submitQuiz",{
+method:"POST",
+body:formData,
+headers: {
+  'Content-Type': 'application/x-www-form-urlencoded'
+}
+});
+
+const result = await response.json();
+window.location.href = `/result.html?score=${result.score}&total=${result.total}&topic=${encodeURIComponent(topic)}`;
+
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Important Questions</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<h2 id="pageTitle">Important Questions</h2>
+<div id="questions"></div>
+
+<script>
+const urlParams = new URLSearchParams(window.location.search);
+const topic = urlParams.get('topic');
+
+if(topic) {
+  document.getElementById('pageTitle').innerText = topic + " - Important Questions";
+}
+
+fetch(topic ? "/importantQuestions/" + encodeURIComponent(topic) : "/importantQuestions")
+.then(res => res.json())
+.then(data => {
+
+let html="";
+
+data.forEach((iq, index)=>{
+html += `
+<div class="test-question">
+<h3>Question ${index + 1}:</h3>
+<p>${iq.question}</p>
+`;
+if (iq.answer) {
+  html += `<strong>Answer/Hint:</strong> <p>${iq.answer}</p>`;
+}
+html += `</div><br>`;
+});
+
+if (data.length === 0) {
+  html = "<p>No important questions found for this topic.</p>";
+}
+
+document.getElementById("questions").innerHTML = html;
+
+});
+</script>
+</body>
+</html>

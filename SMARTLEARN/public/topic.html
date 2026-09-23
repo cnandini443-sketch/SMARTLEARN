@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Topic Details</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<h2 id="topicTitle">Topic Details</h2>
+
+<div id="actions"></div>
+
+<script>
+const urlParams = new URLSearchParams(window.location.search);
+const topic = urlParams.get('name');
+document.getElementById('topicTitle').innerText = topic;
+
+document.getElementById('actions').innerHTML = `
+<a href="/videos.html?topic=${encodeURIComponent(topic)}"><button>View Lectures & PDFs</button></a><br><br>
+<a href="/quiz.html?topic=${encodeURIComponent(topic)}"><button>Take Quiz</button></a><br><br>
+<a href="/important_questions.html?topic=${encodeURIComponent(topic)}"><button>Important Questions</button></a>
+`;
+</script>
+</body>
+</html>

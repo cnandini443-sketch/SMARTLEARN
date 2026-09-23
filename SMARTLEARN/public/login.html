@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+body {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+</style>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body class="auth-page">
+
+<main class="auth-card">
+<p class="eyebrow">SMARTLEARN</p>
+<h2>Welcome back</h2>
+<p class="auth-subtitle">Continue your learning journey.</p>
+
+<form action="/login" method="POST">
+
+<label for="email">Email</label>
+<input id="email" type="email" name="email" required autocomplete="email">
+
+<label for="password">Password</label>
+<input id="password" type="password" name="password" required autocomplete="current-password">
+
+<button type="submit">Login</button>
+
+</form>
+
+<br>
+
+<p class="auth-footer">New to SMARTLEARN? <a href="/register.html">Create an account</a></p>
+</main>
+
+</body>
+</html>

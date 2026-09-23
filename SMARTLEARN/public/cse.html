@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSE Subjects</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<h2>Computer Science Engineering Subjects</h2>
+<p>Choose a CSE subject to view materials, important questions, and take quizzes</p>
+<div id="cse-topics"><p>Loading subjects...</p></div>
+<script>
+fetch('/topics')
+	.then(response => response.json())
+	.then(topics => {
+		document.getElementById('cse-topics').innerHTML = topics.map(topic =>
+			`<a href="/topic.html?name=${encodeURIComponent(topic)}"><button>${topic}</button></a>`
+		).join('');
+	});
+</script>
+</body>
+</html>
