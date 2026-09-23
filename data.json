@@ -1,0 +1,4089 @@
+{
+  "users": [],
+  "courses": [
+    {
+      "id": "course-1-1",
+      "topic": "Data Structures",
+      "courseName": "Data Structures Complete Course",
+      "videoTitle": "Data Structures Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Data+Structures+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Data Structures notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-1-2",
+      "topic": "Data Structures",
+      "courseName": "Data Structures Advanced Lecture",
+      "videoTitle": "Data Structures Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Data+Structures+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Data Structures advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-2-1",
+      "topic": "Operating Systems",
+      "courseName": "Operating Systems Complete Course",
+      "videoTitle": "Operating Systems Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Operating+Systems+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Operating Systems notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-2-2",
+      "topic": "Operating Systems",
+      "courseName": "Operating Systems Advanced Lecture",
+      "videoTitle": "Operating Systems Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Operating+Systems+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Operating Systems advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-3-1",
+      "topic": "Computer Networks",
+      "courseName": "Computer Networks Complete Course",
+      "videoTitle": "Computer Networks Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Computer+Networks+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Computer Networks notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-3-2",
+      "topic": "Computer Networks",
+      "courseName": "Computer Networks Advanced Lecture",
+      "videoTitle": "Computer Networks Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Computer+Networks+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Computer Networks advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-4-1",
+      "topic": "Database Management Systems",
+      "courseName": "Database Management Systems Complete Course",
+      "videoTitle": "Database Management Systems Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Database+Management+Systems+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Database Management Systems notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-4-2",
+      "topic": "Database Management Systems",
+      "courseName": "Database Management Systems Advanced Lecture",
+      "videoTitle": "Database Management Systems Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Database+Management+Systems+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Database Management Systems advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-5-1",
+      "topic": "Algorithms",
+      "courseName": "Algorithms Complete Course",
+      "videoTitle": "Algorithms Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Algorithms+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Algorithms notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-5-2",
+      "topic": "Algorithms",
+      "courseName": "Algorithms Advanced Lecture",
+      "videoTitle": "Algorithms Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Algorithms+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Algorithms advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-6-1",
+      "topic": "Theory of Computation",
+      "courseName": "Theory of Computation Complete Course",
+      "videoTitle": "Theory of Computation Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Theory+of+Computation+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Theory of Computation notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-6-2",
+      "topic": "Theory of Computation",
+      "courseName": "Theory of Computation Advanced Lecture",
+      "videoTitle": "Theory of Computation Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Theory+of+Computation+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Theory of Computation advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-7-1",
+      "topic": "Compiler Design",
+      "courseName": "Compiler Design Complete Course",
+      "videoTitle": "Compiler Design Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Compiler+Design+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Compiler Design notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-7-2",
+      "topic": "Compiler Design",
+      "courseName": "Compiler Design Advanced Lecture",
+      "videoTitle": "Compiler Design Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Compiler+Design+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Compiler Design advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-8-1",
+      "topic": "Computer Architecture",
+      "courseName": "Computer Architecture Complete Course",
+      "videoTitle": "Computer Architecture Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Computer+Architecture+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Computer Architecture notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-8-2",
+      "topic": "Computer Architecture",
+      "courseName": "Computer Architecture Advanced Lecture",
+      "videoTitle": "Computer Architecture Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Computer+Architecture+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Computer Architecture advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-9-1",
+      "topic": "Software Engineering",
+      "courseName": "Software Engineering Complete Course",
+      "videoTitle": "Software Engineering Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Software+Engineering+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Software Engineering notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-9-2",
+      "topic": "Software Engineering",
+      "courseName": "Software Engineering Advanced Lecture",
+      "videoTitle": "Software Engineering Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Software+Engineering+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Software Engineering advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-10-1",
+      "topic": "Artificial Intelligence",
+      "courseName": "Artificial Intelligence Complete Course",
+      "videoTitle": "Artificial Intelligence Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Artificial+Intelligence+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Artificial Intelligence notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-10-2",
+      "topic": "Artificial Intelligence",
+      "courseName": "Artificial Intelligence Advanced Lecture",
+      "videoTitle": "Artificial Intelligence Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Artificial+Intelligence+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Artificial Intelligence advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-11-1",
+      "topic": "Machine Learning",
+      "courseName": "Machine Learning Complete Course",
+      "videoTitle": "Machine Learning Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Machine+Learning+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Machine Learning notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-11-2",
+      "topic": "Machine Learning",
+      "courseName": "Machine Learning Advanced Lecture",
+      "videoTitle": "Machine Learning Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Machine+Learning+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Machine Learning advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-12-1",
+      "topic": "Cryptography and Network Security",
+      "courseName": "Cryptography and Network Security Complete Course",
+      "videoTitle": "Cryptography and Network Security Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Cryptography+and+Network+Security+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Cryptography and Network Security notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-12-2",
+      "topic": "Cryptography and Network Security",
+      "courseName": "Cryptography and Network Security Advanced Lecture",
+      "videoTitle": "Cryptography and Network Security Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Cryptography+and+Network+Security+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Cryptography and Network Security advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-13-1",
+      "topic": "Web Technologies",
+      "courseName": "Web Technologies Complete Course",
+      "videoTitle": "Web Technologies Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Web+Technologies+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Web Technologies notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-13-2",
+      "topic": "Web Technologies",
+      "courseName": "Web Technologies Advanced Lecture",
+      "videoTitle": "Web Technologies Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Web+Technologies+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Web Technologies advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-14-1",
+      "topic": "Mobile Application Development",
+      "courseName": "Mobile Application Development Complete Course",
+      "videoTitle": "Mobile Application Development Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Mobile+Application+Development+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Mobile Application Development notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-14-2",
+      "topic": "Mobile Application Development",
+      "courseName": "Mobile Application Development Advanced Lecture",
+      "videoTitle": "Mobile Application Development Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Mobile+Application+Development+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Mobile Application Development advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-15-1",
+      "topic": "Discrete Mathematics",
+      "courseName": "Discrete Mathematics Complete Course",
+      "videoTitle": "Discrete Mathematics Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Discrete+Mathematics+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Discrete Mathematics notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-15-2",
+      "topic": "Discrete Mathematics",
+      "courseName": "Discrete Mathematics Advanced Lecture",
+      "videoTitle": "Discrete Mathematics Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Discrete+Mathematics+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Discrete Mathematics advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-16-1",
+      "topic": "Object-Oriented Programming",
+      "courseName": "Object-Oriented Programming Complete Course",
+      "videoTitle": "Object-Oriented Programming Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Object-Oriented+Programming+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Object-Oriented Programming notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-16-2",
+      "topic": "Object-Oriented Programming",
+      "courseName": "Object-Oriented Programming Advanced Lecture",
+      "videoTitle": "Object-Oriented Programming Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Object-Oriented+Programming+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Object-Oriented Programming advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-17-1",
+      "topic": "Cloud Computing",
+      "courseName": "Cloud Computing Complete Course",
+      "videoTitle": "Cloud Computing Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Cloud+Computing+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Cloud Computing notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-17-2",
+      "topic": "Cloud Computing",
+      "courseName": "Cloud Computing Advanced Lecture",
+      "videoTitle": "Cloud Computing Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Cloud+Computing+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Cloud Computing advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-18-1",
+      "topic": "Data Mining",
+      "courseName": "Data Mining Complete Course",
+      "videoTitle": "Data Mining Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Data+Mining+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Data Mining notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-18-2",
+      "topic": "Data Mining",
+      "courseName": "Data Mining Advanced Lecture",
+      "videoTitle": "Data Mining Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Data+Mining+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Data Mining advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-19-1",
+      "topic": "Microprocessors",
+      "courseName": "Microprocessors Complete Course",
+      "videoTitle": "Microprocessors Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Microprocessors+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Microprocessors notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-19-2",
+      "topic": "Microprocessors",
+      "courseName": "Microprocessors Advanced Lecture",
+      "videoTitle": "Microprocessors Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Microprocessors+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Microprocessors advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-20-1",
+      "topic": "Programming in C",
+      "courseName": "Programming in C Complete Course",
+      "videoTitle": "Programming in C Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Programming+in+C+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Programming in C notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-20-2",
+      "topic": "Programming in C",
+      "courseName": "Programming in C Advanced Lecture",
+      "videoTitle": "Programming in C Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Programming+in+C+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Programming in C advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-21-1",
+      "topic": "Java Programming",
+      "courseName": "Java Programming Complete Course",
+      "videoTitle": "Java Programming Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Java+Programming+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Java Programming notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-21-2",
+      "topic": "Java Programming",
+      "courseName": "Java Programming Advanced Lecture",
+      "videoTitle": "Java Programming Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Java+Programming+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Java Programming advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-22-1",
+      "topic": "Python Programming",
+      "courseName": "Python Programming Complete Course",
+      "videoTitle": "Python Programming Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Python+Programming+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Python Programming notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-22-2",
+      "topic": "Python Programming",
+      "courseName": "Python Programming Advanced Lecture",
+      "videoTitle": "Python Programming Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Python+Programming+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Python Programming advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-23-1",
+      "topic": "Computer Graphics",
+      "courseName": "Computer Graphics Complete Course",
+      "videoTitle": "Computer Graphics Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Computer+Graphics+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Computer Graphics notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-23-2",
+      "topic": "Computer Graphics",
+      "courseName": "Computer Graphics Advanced Lecture",
+      "videoTitle": "Computer Graphics Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Computer+Graphics+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Computer Graphics advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-24-1",
+      "topic": "Internet of Things",
+      "courseName": "Internet of Things Complete Course",
+      "videoTitle": "Internet of Things Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Internet+of+Things+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Internet of Things notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-24-2",
+      "topic": "Internet of Things",
+      "courseName": "Internet of Things Advanced Lecture",
+      "videoTitle": "Internet of Things Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Internet+of+Things+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Internet of Things advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-25-1",
+      "topic": "Big Data Analytics",
+      "courseName": "Big Data Analytics Complete Course",
+      "videoTitle": "Big Data Analytics Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Big+Data+Analytics+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Big Data Analytics notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-25-2",
+      "topic": "Big Data Analytics",
+      "courseName": "Big Data Analytics Advanced Lecture",
+      "videoTitle": "Big Data Analytics Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Big+Data+Analytics+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Big Data Analytics advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-26-1",
+      "topic": "DevOps",
+      "courseName": "DevOps Complete Course",
+      "videoTitle": "DevOps Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=DevOps+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "DevOps notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-26-2",
+      "topic": "DevOps",
+      "courseName": "DevOps Advanced Lecture",
+      "videoTitle": "DevOps Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=DevOps+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "DevOps advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-27-1",
+      "topic": "Cyber Security",
+      "courseName": "Cyber Security Complete Course",
+      "videoTitle": "Cyber Security Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Cyber+Security+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Cyber Security notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-27-2",
+      "topic": "Cyber Security",
+      "courseName": "Cyber Security Advanced Lecture",
+      "videoTitle": "Cyber Security Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Cyber+Security+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Cyber Security advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-28-1",
+      "topic": "Natural Language Processing",
+      "courseName": "Natural Language Processing Complete Course",
+      "videoTitle": "Natural Language Processing Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Natural+Language+Processing+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Natural Language Processing notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-28-2",
+      "topic": "Natural Language Processing",
+      "courseName": "Natural Language Processing Advanced Lecture",
+      "videoTitle": "Natural Language Processing Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Natural+Language+Processing+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Natural Language Processing advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-29-1",
+      "topic": "Blockchain Technology",
+      "courseName": "Blockchain Technology Complete Course",
+      "videoTitle": "Blockchain Technology Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Blockchain+Technology+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Blockchain Technology notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-29-2",
+      "topic": "Blockchain Technology",
+      "courseName": "Blockchain Technology Advanced Lecture",
+      "videoTitle": "Blockchain Technology Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Blockchain+Technology+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Blockchain Technology advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    },
+    {
+      "id": "course-30-1",
+      "topic": "Software Testing",
+      "courseName": "Software Testing Complete Course",
+      "videoTitle": "Software Testing Introduction Lecture",
+      "videoLink": "https://www.youtube.com/results?search_query=Software+Testing+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Software Testing notes: Learn definitions, core concepts, examples, applications, advantages, limitations, and exam points. Practice after every topic and revise mistakes."
+    },
+    {
+      "id": "course-30-2",
+      "topic": "Software Testing",
+      "courseName": "Software Testing Advanced Lecture",
+      "videoTitle": "Software Testing Advanced Concepts",
+      "videoLink": "https://www.youtube.com/results?search_query=Software+Testing+advanced+tutorial",
+      "pdfLink": "",
+      "lectureNotes": "Software Testing advanced notes: Focus on problem solving, practical applications, important algorithms or techniques, complexity where relevant, and interview questions."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-1-1",
+      "topic": "Data Structures",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-1-2",
+      "topic": "Data Structures",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-1-3",
+      "topic": "Data Structures",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-1-4",
+      "topic": "Data Structures",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-1-5",
+      "topic": "Data Structures",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-1-6",
+      "topic": "Data Structures",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-1-7",
+      "topic": "Data Structures",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-1-8",
+      "topic": "Data Structures",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-1-9",
+      "topic": "Data Structures",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-1-10",
+      "topic": "Data Structures",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-2-1",
+      "topic": "Operating Systems",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-2-2",
+      "topic": "Operating Systems",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-2-3",
+      "topic": "Operating Systems",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-2-4",
+      "topic": "Operating Systems",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-2-5",
+      "topic": "Operating Systems",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-2-6",
+      "topic": "Operating Systems",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-2-7",
+      "topic": "Operating Systems",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-2-8",
+      "topic": "Operating Systems",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-2-9",
+      "topic": "Operating Systems",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-2-10",
+      "topic": "Operating Systems",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-3-1",
+      "topic": "Computer Networks",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-3-2",
+      "topic": "Computer Networks",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-3-3",
+      "topic": "Computer Networks",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-3-4",
+      "topic": "Computer Networks",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-3-5",
+      "topic": "Computer Networks",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-3-6",
+      "topic": "Computer Networks",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-3-7",
+      "topic": "Computer Networks",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-3-8",
+      "topic": "Computer Networks",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-3-9",
+      "topic": "Computer Networks",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-3-10",
+      "topic": "Computer Networks",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-4-1",
+      "topic": "Database Management Systems",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-4-2",
+      "topic": "Database Management Systems",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-4-3",
+      "topic": "Database Management Systems",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-4-4",
+      "topic": "Database Management Systems",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-4-5",
+      "topic": "Database Management Systems",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-4-6",
+      "topic": "Database Management Systems",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-4-7",
+      "topic": "Database Management Systems",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-4-8",
+      "topic": "Database Management Systems",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-4-9",
+      "topic": "Database Management Systems",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-4-10",
+      "topic": "Database Management Systems",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-5-1",
+      "topic": "Algorithms",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-5-2",
+      "topic": "Algorithms",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-5-3",
+      "topic": "Algorithms",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-5-4",
+      "topic": "Algorithms",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-5-5",
+      "topic": "Algorithms",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-5-6",
+      "topic": "Algorithms",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-5-7",
+      "topic": "Algorithms",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-5-8",
+      "topic": "Algorithms",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-5-9",
+      "topic": "Algorithms",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-5-10",
+      "topic": "Algorithms",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-6-1",
+      "topic": "Theory of Computation",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-6-2",
+      "topic": "Theory of Computation",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-6-3",
+      "topic": "Theory of Computation",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-6-4",
+      "topic": "Theory of Computation",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-6-5",
+      "topic": "Theory of Computation",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-6-6",
+      "topic": "Theory of Computation",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-6-7",
+      "topic": "Theory of Computation",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-6-8",
+      "topic": "Theory of Computation",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-6-9",
+      "topic": "Theory of Computation",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-6-10",
+      "topic": "Theory of Computation",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-7-1",
+      "topic": "Compiler Design",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-7-2",
+      "topic": "Compiler Design",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-7-3",
+      "topic": "Compiler Design",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-7-4",
+      "topic": "Compiler Design",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-7-5",
+      "topic": "Compiler Design",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-7-6",
+      "topic": "Compiler Design",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-7-7",
+      "topic": "Compiler Design",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-7-8",
+      "topic": "Compiler Design",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-7-9",
+      "topic": "Compiler Design",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-7-10",
+      "topic": "Compiler Design",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-8-1",
+      "topic": "Computer Architecture",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-8-2",
+      "topic": "Computer Architecture",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-8-3",
+      "topic": "Computer Architecture",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-8-4",
+      "topic": "Computer Architecture",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-8-5",
+      "topic": "Computer Architecture",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-8-6",
+      "topic": "Computer Architecture",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-8-7",
+      "topic": "Computer Architecture",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-8-8",
+      "topic": "Computer Architecture",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-8-9",
+      "topic": "Computer Architecture",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-8-10",
+      "topic": "Computer Architecture",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-9-1",
+      "topic": "Software Engineering",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-9-2",
+      "topic": "Software Engineering",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-9-3",
+      "topic": "Software Engineering",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-9-4",
+      "topic": "Software Engineering",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-9-5",
+      "topic": "Software Engineering",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-9-6",
+      "topic": "Software Engineering",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-9-7",
+      "topic": "Software Engineering",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-9-8",
+      "topic": "Software Engineering",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-9-9",
+      "topic": "Software Engineering",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-9-10",
+      "topic": "Software Engineering",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-10-1",
+      "topic": "Artificial Intelligence",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-10-2",
+      "topic": "Artificial Intelligence",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-10-3",
+      "topic": "Artificial Intelligence",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-10-4",
+      "topic": "Artificial Intelligence",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-10-5",
+      "topic": "Artificial Intelligence",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-10-6",
+      "topic": "Artificial Intelligence",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-10-7",
+      "topic": "Artificial Intelligence",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-10-8",
+      "topic": "Artificial Intelligence",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-10-9",
+      "topic": "Artificial Intelligence",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-10-10",
+      "topic": "Artificial Intelligence",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-11-1",
+      "topic": "Machine Learning",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-11-2",
+      "topic": "Machine Learning",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-11-3",
+      "topic": "Machine Learning",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-11-4",
+      "topic": "Machine Learning",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-11-5",
+      "topic": "Machine Learning",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-11-6",
+      "topic": "Machine Learning",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-11-7",
+      "topic": "Machine Learning",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-11-8",
+      "topic": "Machine Learning",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-11-9",
+      "topic": "Machine Learning",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-11-10",
+      "topic": "Machine Learning",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-12-1",
+      "topic": "Cryptography and Network Security",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-12-2",
+      "topic": "Cryptography and Network Security",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-12-3",
+      "topic": "Cryptography and Network Security",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-12-4",
+      "topic": "Cryptography and Network Security",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-12-5",
+      "topic": "Cryptography and Network Security",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-12-6",
+      "topic": "Cryptography and Network Security",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-12-7",
+      "topic": "Cryptography and Network Security",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-12-8",
+      "topic": "Cryptography and Network Security",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-12-9",
+      "topic": "Cryptography and Network Security",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-12-10",
+      "topic": "Cryptography and Network Security",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-13-1",
+      "topic": "Web Technologies",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-13-2",
+      "topic": "Web Technologies",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-13-3",
+      "topic": "Web Technologies",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-13-4",
+      "topic": "Web Technologies",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-13-5",
+      "topic": "Web Technologies",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-13-6",
+      "topic": "Web Technologies",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-13-7",
+      "topic": "Web Technologies",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-13-8",
+      "topic": "Web Technologies",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-13-9",
+      "topic": "Web Technologies",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-13-10",
+      "topic": "Web Technologies",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-14-1",
+      "topic": "Mobile Application Development",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-14-2",
+      "topic": "Mobile Application Development",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-14-3",
+      "topic": "Mobile Application Development",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-14-4",
+      "topic": "Mobile Application Development",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-14-5",
+      "topic": "Mobile Application Development",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-14-6",
+      "topic": "Mobile Application Development",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-14-7",
+      "topic": "Mobile Application Development",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-14-8",
+      "topic": "Mobile Application Development",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-14-9",
+      "topic": "Mobile Application Development",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-14-10",
+      "topic": "Mobile Application Development",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-15-1",
+      "topic": "Discrete Mathematics",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-15-2",
+      "topic": "Discrete Mathematics",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-15-3",
+      "topic": "Discrete Mathematics",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-15-4",
+      "topic": "Discrete Mathematics",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-15-5",
+      "topic": "Discrete Mathematics",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-15-6",
+      "topic": "Discrete Mathematics",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-15-7",
+      "topic": "Discrete Mathematics",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-15-8",
+      "topic": "Discrete Mathematics",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-15-9",
+      "topic": "Discrete Mathematics",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-15-10",
+      "topic": "Discrete Mathematics",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-16-1",
+      "topic": "Object-Oriented Programming",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-16-2",
+      "topic": "Object-Oriented Programming",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-16-3",
+      "topic": "Object-Oriented Programming",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-16-4",
+      "topic": "Object-Oriented Programming",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-16-5",
+      "topic": "Object-Oriented Programming",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-16-6",
+      "topic": "Object-Oriented Programming",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-16-7",
+      "topic": "Object-Oriented Programming",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-16-8",
+      "topic": "Object-Oriented Programming",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-16-9",
+      "topic": "Object-Oriented Programming",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-16-10",
+      "topic": "Object-Oriented Programming",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-17-1",
+      "topic": "Cloud Computing",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-17-2",
+      "topic": "Cloud Computing",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-17-3",
+      "topic": "Cloud Computing",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-17-4",
+      "topic": "Cloud Computing",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-17-5",
+      "topic": "Cloud Computing",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-17-6",
+      "topic": "Cloud Computing",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-17-7",
+      "topic": "Cloud Computing",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-17-8",
+      "topic": "Cloud Computing",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-17-9",
+      "topic": "Cloud Computing",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-17-10",
+      "topic": "Cloud Computing",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-18-1",
+      "topic": "Data Mining",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-18-2",
+      "topic": "Data Mining",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-18-3",
+      "topic": "Data Mining",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-18-4",
+      "topic": "Data Mining",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-18-5",
+      "topic": "Data Mining",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-18-6",
+      "topic": "Data Mining",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-18-7",
+      "topic": "Data Mining",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-18-8",
+      "topic": "Data Mining",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-18-9",
+      "topic": "Data Mining",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-18-10",
+      "topic": "Data Mining",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-19-1",
+      "topic": "Microprocessors",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-19-2",
+      "topic": "Microprocessors",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-19-3",
+      "topic": "Microprocessors",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-19-4",
+      "topic": "Microprocessors",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-19-5",
+      "topic": "Microprocessors",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-19-6",
+      "topic": "Microprocessors",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-19-7",
+      "topic": "Microprocessors",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-19-8",
+      "topic": "Microprocessors",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-19-9",
+      "topic": "Microprocessors",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-19-10",
+      "topic": "Microprocessors",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-20-1",
+      "topic": "Programming in C",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-20-2",
+      "topic": "Programming in C",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-20-3",
+      "topic": "Programming in C",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-20-4",
+      "topic": "Programming in C",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-20-5",
+      "topic": "Programming in C",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-20-6",
+      "topic": "Programming in C",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-20-7",
+      "topic": "Programming in C",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-20-8",
+      "topic": "Programming in C",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-20-9",
+      "topic": "Programming in C",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-20-10",
+      "topic": "Programming in C",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-21-1",
+      "topic": "Java Programming",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-21-2",
+      "topic": "Java Programming",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-21-3",
+      "topic": "Java Programming",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-21-4",
+      "topic": "Java Programming",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-21-5",
+      "topic": "Java Programming",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-21-6",
+      "topic": "Java Programming",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-21-7",
+      "topic": "Java Programming",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-21-8",
+      "topic": "Java Programming",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-21-9",
+      "topic": "Java Programming",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-21-10",
+      "topic": "Java Programming",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-22-1",
+      "topic": "Python Programming",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-22-2",
+      "topic": "Python Programming",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-22-3",
+      "topic": "Python Programming",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-22-4",
+      "topic": "Python Programming",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-22-5",
+      "topic": "Python Programming",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-22-6",
+      "topic": "Python Programming",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-22-7",
+      "topic": "Python Programming",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-22-8",
+      "topic": "Python Programming",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-22-9",
+      "topic": "Python Programming",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-22-10",
+      "topic": "Python Programming",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-23-1",
+      "topic": "Computer Graphics",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-23-2",
+      "topic": "Computer Graphics",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-23-3",
+      "topic": "Computer Graphics",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-23-4",
+      "topic": "Computer Graphics",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-23-5",
+      "topic": "Computer Graphics",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-23-6",
+      "topic": "Computer Graphics",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-23-7",
+      "topic": "Computer Graphics",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-23-8",
+      "topic": "Computer Graphics",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-23-9",
+      "topic": "Computer Graphics",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-23-10",
+      "topic": "Computer Graphics",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-24-1",
+      "topic": "Internet of Things",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-24-2",
+      "topic": "Internet of Things",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-24-3",
+      "topic": "Internet of Things",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-24-4",
+      "topic": "Internet of Things",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-24-5",
+      "topic": "Internet of Things",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-24-6",
+      "topic": "Internet of Things",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-24-7",
+      "topic": "Internet of Things",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-24-8",
+      "topic": "Internet of Things",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-24-9",
+      "topic": "Internet of Things",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-24-10",
+      "topic": "Internet of Things",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-25-1",
+      "topic": "Big Data Analytics",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-25-2",
+      "topic": "Big Data Analytics",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-25-3",
+      "topic": "Big Data Analytics",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-25-4",
+      "topic": "Big Data Analytics",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-25-5",
+      "topic": "Big Data Analytics",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-25-6",
+      "topic": "Big Data Analytics",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-25-7",
+      "topic": "Big Data Analytics",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-25-8",
+      "topic": "Big Data Analytics",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-25-9",
+      "topic": "Big Data Analytics",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-25-10",
+      "topic": "Big Data Analytics",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-26-1",
+      "topic": "DevOps",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-26-2",
+      "topic": "DevOps",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-26-3",
+      "topic": "DevOps",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-26-4",
+      "topic": "DevOps",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-26-5",
+      "topic": "DevOps",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-26-6",
+      "topic": "DevOps",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-26-7",
+      "topic": "DevOps",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-26-8",
+      "topic": "DevOps",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-26-9",
+      "topic": "DevOps",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-26-10",
+      "topic": "DevOps",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-27-1",
+      "topic": "Cyber Security",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-27-2",
+      "topic": "Cyber Security",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-27-3",
+      "topic": "Cyber Security",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-27-4",
+      "topic": "Cyber Security",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-27-5",
+      "topic": "Cyber Security",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-27-6",
+      "topic": "Cyber Security",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-27-7",
+      "topic": "Cyber Security",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-27-8",
+      "topic": "Cyber Security",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-27-9",
+      "topic": "Cyber Security",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-27-10",
+      "topic": "Cyber Security",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-28-1",
+      "topic": "Natural Language Processing",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-28-2",
+      "topic": "Natural Language Processing",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-28-3",
+      "topic": "Natural Language Processing",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-28-4",
+      "topic": "Natural Language Processing",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-28-5",
+      "topic": "Natural Language Processing",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-28-6",
+      "topic": "Natural Language Processing",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-28-7",
+      "topic": "Natural Language Processing",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-28-8",
+      "topic": "Natural Language Processing",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-28-9",
+      "topic": "Natural Language Processing",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-28-10",
+      "topic": "Natural Language Processing",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-29-1",
+      "topic": "Blockchain Technology",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-29-2",
+      "topic": "Blockchain Technology",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-29-3",
+      "topic": "Blockchain Technology",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-29-4",
+      "topic": "Blockchain Technology",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-29-5",
+      "topic": "Blockchain Technology",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-29-6",
+      "topic": "Blockchain Technology",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-29-7",
+      "topic": "Blockchain Technology",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-29-8",
+      "topic": "Blockchain Technology",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-29-9",
+      "topic": "Blockchain Technology",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-29-10",
+      "topic": "Blockchain Technology",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    },
+    {
+      "id": "q-30-1",
+      "topic": "Software Testing",
+      "question": "What is the main purpose of studying this subject?",
+      "option1": "Understanding core concepts and solving problems",
+      "option2": "Only memorizing definitions",
+      "option3": "Only designing websites",
+      "option4": "Only managing hardware",
+      "answer": "Understanding core concepts and solving problems"
+    },
+    {
+      "id": "q-30-2",
+      "topic": "Software Testing",
+      "question": "Which approach is useful for learning this subject?",
+      "option1": "Concepts followed by examples and practice",
+      "option2": "Skipping examples",
+      "option3": "Only reading headings",
+      "option4": "Avoiding practice",
+      "answer": "Concepts followed by examples and practice"
+    },
+    {
+      "id": "q-30-3",
+      "topic": "Software Testing",
+      "question": "Which activity improves understanding?",
+      "option1": "Regular problem solving",
+      "option2": "Avoiding questions",
+      "option3": "Only watching videos",
+      "option4": "Only copying notes",
+      "answer": "Regular problem solving"
+    },
+    {
+      "id": "q-30-4",
+      "topic": "Software Testing",
+      "question": "What should be revised before an exam?",
+      "option1": "Definitions, concepts and examples",
+      "option2": "Only chapter names",
+      "option3": "Only colors",
+      "option4": "Only file names",
+      "answer": "Definitions, concepts and examples"
+    },
+    {
+      "id": "q-30-5",
+      "topic": "Software Testing",
+      "question": "What is important in practical learning?",
+      "option1": "Applying concepts to real problems",
+      "option2": "Only memorizing",
+      "option3": "Avoiding code",
+      "option4": "Avoiding exercises",
+      "answer": "Applying concepts to real problems"
+    },
+    {
+      "id": "q-30-6",
+      "topic": "Software Testing",
+      "question": "What helps improve exam performance?",
+      "option1": "Practice tests and revision",
+      "option2": "Skipping revision",
+      "option3": "Only guessing",
+      "option4": "Ignoring mistakes",
+      "answer": "Practice tests and revision"
+    },
+    {
+      "id": "q-30-7",
+      "topic": "Software Testing",
+      "question": "What is a useful study sequence?",
+      "option1": "Learn, practice, test and revise",
+      "option2": "Guess, skip and submit",
+      "option3": "Only memorize",
+      "option4": "Only watch",
+      "answer": "Learn, practice, test and revise"
+    },
+    {
+      "id": "q-30-8",
+      "topic": "Software Testing",
+      "question": "What should a good lecture include?",
+      "option1": "Explanation and examples",
+      "option2": "Only a title",
+      "option3": "Only an image",
+      "option4": "Only a link",
+      "answer": "Explanation and examples"
+    },
+    {
+      "id": "q-30-9",
+      "topic": "Software Testing",
+      "question": "What is a good way to identify weak areas?",
+      "option1": "Quiz results and review",
+      "option2": "Ignoring scores",
+      "option3": "Skipping quizzes",
+      "option4": "Changing subjects randomly",
+      "answer": "Quiz results and review"
+    },
+    {
+      "id": "q-30-10",
+      "topic": "Software Testing",
+      "question": "What makes learning dynamic?",
+      "option1": "Interactive quizzes with instant results",
+      "option2": "Static text only",
+      "option3": "No feedback",
+      "option4": "No practice",
+      "answer": "Interactive quizzes with instant results"
+    }
+  ],
+  "importantQuestions": [
+    {
+      "id": "iq-1-1",
+      "topic": "Data Structures",
+      "question": "Important question 1: Explain a key concept of Data Structures with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Data Structures concept."
+    },
+    {
+      "id": "iq-1-2",
+      "topic": "Data Structures",
+      "question": "Important question 2: Explain a key concept of Data Structures with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Data Structures concept."
+    },
+    {
+      "id": "iq-1-3",
+      "topic": "Data Structures",
+      "question": "Important question 3: Explain a key concept of Data Structures with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Data Structures concept."
+    },
+    {
+      "id": "iq-2-1",
+      "topic": "Operating Systems",
+      "question": "Important question 1: Explain a key concept of Operating Systems with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Operating Systems concept."
+    },
+    {
+      "id": "iq-2-2",
+      "topic": "Operating Systems",
+      "question": "Important question 2: Explain a key concept of Operating Systems with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Operating Systems concept."
+    },
+    {
+      "id": "iq-2-3",
+      "topic": "Operating Systems",
+      "question": "Important question 3: Explain a key concept of Operating Systems with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Operating Systems concept."
+    },
+    {
+      "id": "iq-3-1",
+      "topic": "Computer Networks",
+      "question": "Important question 1: Explain a key concept of Computer Networks with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Networks concept."
+    },
+    {
+      "id": "iq-3-2",
+      "topic": "Computer Networks",
+      "question": "Important question 2: Explain a key concept of Computer Networks with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Networks concept."
+    },
+    {
+      "id": "iq-3-3",
+      "topic": "Computer Networks",
+      "question": "Important question 3: Explain a key concept of Computer Networks with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Networks concept."
+    },
+    {
+      "id": "iq-4-1",
+      "topic": "Database Management Systems",
+      "question": "Important question 1: Explain a key concept of Database Management Systems with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Database Management Systems concept."
+    },
+    {
+      "id": "iq-4-2",
+      "topic": "Database Management Systems",
+      "question": "Important question 2: Explain a key concept of Database Management Systems with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Database Management Systems concept."
+    },
+    {
+      "id": "iq-4-3",
+      "topic": "Database Management Systems",
+      "question": "Important question 3: Explain a key concept of Database Management Systems with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Database Management Systems concept."
+    },
+    {
+      "id": "iq-5-1",
+      "topic": "Algorithms",
+      "question": "Important question 1: Explain a key concept of Algorithms with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Algorithms concept."
+    },
+    {
+      "id": "iq-5-2",
+      "topic": "Algorithms",
+      "question": "Important question 2: Explain a key concept of Algorithms with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Algorithms concept."
+    },
+    {
+      "id": "iq-5-3",
+      "topic": "Algorithms",
+      "question": "Important question 3: Explain a key concept of Algorithms with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Algorithms concept."
+    },
+    {
+      "id": "iq-6-1",
+      "topic": "Theory of Computation",
+      "question": "Important question 1: Explain a key concept of Theory of Computation with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Theory of Computation concept."
+    },
+    {
+      "id": "iq-6-2",
+      "topic": "Theory of Computation",
+      "question": "Important question 2: Explain a key concept of Theory of Computation with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Theory of Computation concept."
+    },
+    {
+      "id": "iq-6-3",
+      "topic": "Theory of Computation",
+      "question": "Important question 3: Explain a key concept of Theory of Computation with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Theory of Computation concept."
+    },
+    {
+      "id": "iq-7-1",
+      "topic": "Compiler Design",
+      "question": "Important question 1: Explain a key concept of Compiler Design with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Compiler Design concept."
+    },
+    {
+      "id": "iq-7-2",
+      "topic": "Compiler Design",
+      "question": "Important question 2: Explain a key concept of Compiler Design with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Compiler Design concept."
+    },
+    {
+      "id": "iq-7-3",
+      "topic": "Compiler Design",
+      "question": "Important question 3: Explain a key concept of Compiler Design with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Compiler Design concept."
+    },
+    {
+      "id": "iq-8-1",
+      "topic": "Computer Architecture",
+      "question": "Important question 1: Explain a key concept of Computer Architecture with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Architecture concept."
+    },
+    {
+      "id": "iq-8-2",
+      "topic": "Computer Architecture",
+      "question": "Important question 2: Explain a key concept of Computer Architecture with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Architecture concept."
+    },
+    {
+      "id": "iq-8-3",
+      "topic": "Computer Architecture",
+      "question": "Important question 3: Explain a key concept of Computer Architecture with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Architecture concept."
+    },
+    {
+      "id": "iq-9-1",
+      "topic": "Software Engineering",
+      "question": "Important question 1: Explain a key concept of Software Engineering with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Software Engineering concept."
+    },
+    {
+      "id": "iq-9-2",
+      "topic": "Software Engineering",
+      "question": "Important question 2: Explain a key concept of Software Engineering with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Software Engineering concept."
+    },
+    {
+      "id": "iq-9-3",
+      "topic": "Software Engineering",
+      "question": "Important question 3: Explain a key concept of Software Engineering with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Software Engineering concept."
+    },
+    {
+      "id": "iq-10-1",
+      "topic": "Artificial Intelligence",
+      "question": "Important question 1: Explain a key concept of Artificial Intelligence with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Artificial Intelligence concept."
+    },
+    {
+      "id": "iq-10-2",
+      "topic": "Artificial Intelligence",
+      "question": "Important question 2: Explain a key concept of Artificial Intelligence with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Artificial Intelligence concept."
+    },
+    {
+      "id": "iq-10-3",
+      "topic": "Artificial Intelligence",
+      "question": "Important question 3: Explain a key concept of Artificial Intelligence with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Artificial Intelligence concept."
+    },
+    {
+      "id": "iq-11-1",
+      "topic": "Machine Learning",
+      "question": "Important question 1: Explain a key concept of Machine Learning with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Machine Learning concept."
+    },
+    {
+      "id": "iq-11-2",
+      "topic": "Machine Learning",
+      "question": "Important question 2: Explain a key concept of Machine Learning with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Machine Learning concept."
+    },
+    {
+      "id": "iq-11-3",
+      "topic": "Machine Learning",
+      "question": "Important question 3: Explain a key concept of Machine Learning with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Machine Learning concept."
+    },
+    {
+      "id": "iq-12-1",
+      "topic": "Cryptography and Network Security",
+      "question": "Important question 1: Explain a key concept of Cryptography and Network Security with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cryptography and Network Security concept."
+    },
+    {
+      "id": "iq-12-2",
+      "topic": "Cryptography and Network Security",
+      "question": "Important question 2: Explain a key concept of Cryptography and Network Security with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cryptography and Network Security concept."
+    },
+    {
+      "id": "iq-12-3",
+      "topic": "Cryptography and Network Security",
+      "question": "Important question 3: Explain a key concept of Cryptography and Network Security with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cryptography and Network Security concept."
+    },
+    {
+      "id": "iq-13-1",
+      "topic": "Web Technologies",
+      "question": "Important question 1: Explain a key concept of Web Technologies with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Web Technologies concept."
+    },
+    {
+      "id": "iq-13-2",
+      "topic": "Web Technologies",
+      "question": "Important question 2: Explain a key concept of Web Technologies with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Web Technologies concept."
+    },
+    {
+      "id": "iq-13-3",
+      "topic": "Web Technologies",
+      "question": "Important question 3: Explain a key concept of Web Technologies with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Web Technologies concept."
+    },
+    {
+      "id": "iq-14-1",
+      "topic": "Mobile Application Development",
+      "question": "Important question 1: Explain a key concept of Mobile Application Development with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Mobile Application Development concept."
+    },
+    {
+      "id": "iq-14-2",
+      "topic": "Mobile Application Development",
+      "question": "Important question 2: Explain a key concept of Mobile Application Development with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Mobile Application Development concept."
+    },
+    {
+      "id": "iq-14-3",
+      "topic": "Mobile Application Development",
+      "question": "Important question 3: Explain a key concept of Mobile Application Development with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Mobile Application Development concept."
+    },
+    {
+      "id": "iq-15-1",
+      "topic": "Discrete Mathematics",
+      "question": "Important question 1: Explain a key concept of Discrete Mathematics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Discrete Mathematics concept."
+    },
+    {
+      "id": "iq-15-2",
+      "topic": "Discrete Mathematics",
+      "question": "Important question 2: Explain a key concept of Discrete Mathematics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Discrete Mathematics concept."
+    },
+    {
+      "id": "iq-15-3",
+      "topic": "Discrete Mathematics",
+      "question": "Important question 3: Explain a key concept of Discrete Mathematics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Discrete Mathematics concept."
+    },
+    {
+      "id": "iq-16-1",
+      "topic": "Object-Oriented Programming",
+      "question": "Important question 1: Explain a key concept of Object-Oriented Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Object-Oriented Programming concept."
+    },
+    {
+      "id": "iq-16-2",
+      "topic": "Object-Oriented Programming",
+      "question": "Important question 2: Explain a key concept of Object-Oriented Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Object-Oriented Programming concept."
+    },
+    {
+      "id": "iq-16-3",
+      "topic": "Object-Oriented Programming",
+      "question": "Important question 3: Explain a key concept of Object-Oriented Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Object-Oriented Programming concept."
+    },
+    {
+      "id": "iq-17-1",
+      "topic": "Cloud Computing",
+      "question": "Important question 1: Explain a key concept of Cloud Computing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cloud Computing concept."
+    },
+    {
+      "id": "iq-17-2",
+      "topic": "Cloud Computing",
+      "question": "Important question 2: Explain a key concept of Cloud Computing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cloud Computing concept."
+    },
+    {
+      "id": "iq-17-3",
+      "topic": "Cloud Computing",
+      "question": "Important question 3: Explain a key concept of Cloud Computing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cloud Computing concept."
+    },
+    {
+      "id": "iq-18-1",
+      "topic": "Data Mining",
+      "question": "Important question 1: Explain a key concept of Data Mining with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Data Mining concept."
+    },
+    {
+      "id": "iq-18-2",
+      "topic": "Data Mining",
+      "question": "Important question 2: Explain a key concept of Data Mining with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Data Mining concept."
+    },
+    {
+      "id": "iq-18-3",
+      "topic": "Data Mining",
+      "question": "Important question 3: Explain a key concept of Data Mining with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Data Mining concept."
+    },
+    {
+      "id": "iq-19-1",
+      "topic": "Microprocessors",
+      "question": "Important question 1: Explain a key concept of Microprocessors with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Microprocessors concept."
+    },
+    {
+      "id": "iq-19-2",
+      "topic": "Microprocessors",
+      "question": "Important question 2: Explain a key concept of Microprocessors with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Microprocessors concept."
+    },
+    {
+      "id": "iq-19-3",
+      "topic": "Microprocessors",
+      "question": "Important question 3: Explain a key concept of Microprocessors with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Microprocessors concept."
+    },
+    {
+      "id": "iq-20-1",
+      "topic": "Programming in C",
+      "question": "Important question 1: Explain a key concept of Programming in C with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Programming in C concept."
+    },
+    {
+      "id": "iq-20-2",
+      "topic": "Programming in C",
+      "question": "Important question 2: Explain a key concept of Programming in C with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Programming in C concept."
+    },
+    {
+      "id": "iq-20-3",
+      "topic": "Programming in C",
+      "question": "Important question 3: Explain a key concept of Programming in C with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Programming in C concept."
+    },
+    {
+      "id": "iq-21-1",
+      "topic": "Java Programming",
+      "question": "Important question 1: Explain a key concept of Java Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Java Programming concept."
+    },
+    {
+      "id": "iq-21-2",
+      "topic": "Java Programming",
+      "question": "Important question 2: Explain a key concept of Java Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Java Programming concept."
+    },
+    {
+      "id": "iq-21-3",
+      "topic": "Java Programming",
+      "question": "Important question 3: Explain a key concept of Java Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Java Programming concept."
+    },
+    {
+      "id": "iq-22-1",
+      "topic": "Python Programming",
+      "question": "Important question 1: Explain a key concept of Python Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Python Programming concept."
+    },
+    {
+      "id": "iq-22-2",
+      "topic": "Python Programming",
+      "question": "Important question 2: Explain a key concept of Python Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Python Programming concept."
+    },
+    {
+      "id": "iq-22-3",
+      "topic": "Python Programming",
+      "question": "Important question 3: Explain a key concept of Python Programming with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Python Programming concept."
+    },
+    {
+      "id": "iq-23-1",
+      "topic": "Computer Graphics",
+      "question": "Important question 1: Explain a key concept of Computer Graphics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Graphics concept."
+    },
+    {
+      "id": "iq-23-2",
+      "topic": "Computer Graphics",
+      "question": "Important question 2: Explain a key concept of Computer Graphics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Graphics concept."
+    },
+    {
+      "id": "iq-23-3",
+      "topic": "Computer Graphics",
+      "question": "Important question 3: Explain a key concept of Computer Graphics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Computer Graphics concept."
+    },
+    {
+      "id": "iq-24-1",
+      "topic": "Internet of Things",
+      "question": "Important question 1: Explain a key concept of Internet of Things with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Internet of Things concept."
+    },
+    {
+      "id": "iq-24-2",
+      "topic": "Internet of Things",
+      "question": "Important question 2: Explain a key concept of Internet of Things with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Internet of Things concept."
+    },
+    {
+      "id": "iq-24-3",
+      "topic": "Internet of Things",
+      "question": "Important question 3: Explain a key concept of Internet of Things with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Internet of Things concept."
+    },
+    {
+      "id": "iq-25-1",
+      "topic": "Big Data Analytics",
+      "question": "Important question 1: Explain a key concept of Big Data Analytics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Big Data Analytics concept."
+    },
+    {
+      "id": "iq-25-2",
+      "topic": "Big Data Analytics",
+      "question": "Important question 2: Explain a key concept of Big Data Analytics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Big Data Analytics concept."
+    },
+    {
+      "id": "iq-25-3",
+      "topic": "Big Data Analytics",
+      "question": "Important question 3: Explain a key concept of Big Data Analytics with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Big Data Analytics concept."
+    },
+    {
+      "id": "iq-26-1",
+      "topic": "DevOps",
+      "question": "Important question 1: Explain a key concept of DevOps with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected DevOps concept."
+    },
+    {
+      "id": "iq-26-2",
+      "topic": "DevOps",
+      "question": "Important question 2: Explain a key concept of DevOps with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected DevOps concept."
+    },
+    {
+      "id": "iq-26-3",
+      "topic": "DevOps",
+      "question": "Important question 3: Explain a key concept of DevOps with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected DevOps concept."
+    },
+    {
+      "id": "iq-27-1",
+      "topic": "Cyber Security",
+      "question": "Important question 1: Explain a key concept of Cyber Security with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cyber Security concept."
+    },
+    {
+      "id": "iq-27-2",
+      "topic": "Cyber Security",
+      "question": "Important question 2: Explain a key concept of Cyber Security with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cyber Security concept."
+    },
+    {
+      "id": "iq-27-3",
+      "topic": "Cyber Security",
+      "question": "Important question 3: Explain a key concept of Cyber Security with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Cyber Security concept."
+    },
+    {
+      "id": "iq-28-1",
+      "topic": "Natural Language Processing",
+      "question": "Important question 1: Explain a key concept of Natural Language Processing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Natural Language Processing concept."
+    },
+    {
+      "id": "iq-28-2",
+      "topic": "Natural Language Processing",
+      "question": "Important question 2: Explain a key concept of Natural Language Processing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Natural Language Processing concept."
+    },
+    {
+      "id": "iq-28-3",
+      "topic": "Natural Language Processing",
+      "question": "Important question 3: Explain a key concept of Natural Language Processing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Natural Language Processing concept."
+    },
+    {
+      "id": "iq-29-1",
+      "topic": "Blockchain Technology",
+      "question": "Important question 1: Explain a key concept of Blockchain Technology with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Blockchain Technology concept."
+    },
+    {
+      "id": "iq-29-2",
+      "topic": "Blockchain Technology",
+      "question": "Important question 2: Explain a key concept of Blockchain Technology with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Blockchain Technology concept."
+    },
+    {
+      "id": "iq-29-3",
+      "topic": "Blockchain Technology",
+      "question": "Important question 3: Explain a key concept of Blockchain Technology with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Blockchain Technology concept."
+    },
+    {
+      "id": "iq-30-1",
+      "topic": "Software Testing",
+      "question": "Important question 1: Explain a key concept of Software Testing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Software Testing concept."
+    },
+    {
+      "id": "iq-30-2",
+      "topic": "Software Testing",
+      "question": "Important question 2: Explain a key concept of Software Testing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Software Testing concept."
+    },
+    {
+      "id": "iq-30-3",
+      "topic": "Software Testing",
+      "question": "Important question 3: Explain a key concept of Software Testing with an example.",
+      "answer": "Write the definition, working, example, advantages, limitations and application of the selected Software Testing concept."
+    }
+  ]
+}
